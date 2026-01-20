@@ -1,73 +1,39 @@
-It is a free HTML CSS template by https://templatesjungle.com/
-You can use this template as a starter template and start building as you require.
+ # Ahmad Azeem - Personal Portfolio Website 
 
-The code is consistent and can be easily maintained as we have followed a good coding standard. We want everyone to easily understand it and modify it according to their requirement. As the main goal of providing these templates is to give you something to work on before even starting.
+Welcome to the source code of my personal portfolio website. This site serves as a digital curriculum vitae, showcasing my academic journey, research in Computational Geomechanics, and projects integrating Artificial Intelligence with Civil Engineering.
 
-Preview URL: https://demo.templatesjungle.com/miller/
+🔗 **Live Website:** [https://ahmadazeem73.github.io/ahmadazeem.github.io/](https://ahmadazeem73.github.io/ahmadazeem.github.io/)
 
-Get the Full Version here: 
-https://templatesjungle.com/downloads/miller/
+## 👨‍💻 About Me
 
+I am a **Master of Engineering student at National Yang Ming Chiao Tung University (NYCU)**, Taiwan, specializing in Structural and Material Engineering[cite: 4]. My work bridges the gap between traditional Civil Engineering and modern computational intelligence.
 
-FREE FOR BOTH PERSONAL AND COMMERCIAL USE
+* **Focus:** Computational Geomechanics, Physics-Informed Neural Networks (PINNs), and Sustainable Composites.
+* **Background:** B.E. in Civil Engineering from Aligarh Muslim University (AMU), India.
+* **Experience:** Research internships at **IIT Jammu** (Rockfall Hazard Prediction) and **CSIR-CRRI** (Road Safety Analysis).
 
-This HTML Template is provided by TemplatesJungle.com and is free to use in both personal and commercial projects as long as you don't remove our credit link in the footer.
+## 🚀 Features
 
-However, you can remove the credit link by paying for No Attribution version of the template.
+* **Responsive Design:** Built with **Bootstrap 5**, ensuring compatibility across mobile, tablet, and desktop devices.
+* **Portfolio Section:** Highlights key research projects, including UHPC strength prediction using Explainable AI and Rockfall simulation.
+* **Academic Timeline:** A structured visualization of my education and professional experience.
+* [cite_start]**Skill Visualization:** Interactive charts displaying proficiency in Python, MATLAB, and Structural Software.
 
+## 🛠️ Tech Stack
 
-RIGHTS
+This website is a static site hosted on GitHub Pages, built using:
 
-You are allowed to use it in your personal projects and commercial projects.
+* **HTML5 & CSS3**
+* **Bootstrap 5 Framework** (Responsive Grid & Components)
+* **JavaScript & jQuery** (Interactivity & Animations)
+* **AOS (Animate On Scroll)** (Scroll animations)
+* **Swiper.js** (Touch-enabled sliders for the portfolio)
 
-You can modify and sell it to your clients.
+## 📂 Project Structure
 
-
-PROHIBITIONS
-
-You cannot remove the credit link which links back to templatesjungle.com.
-
-You are not permitted to resell or redistribute (paid or free) as it is. 
-
-You cannot use it to build premium templates, themes or any other goods to be sold on marketplaces.
-
-If you want to share the free resource in your blog, you must point it to original TemplatesJungle.com resource page. 
-
-You cannot host the download file in your website.
-
-
-SUPPORT
-
-You can contact us to report any bugs and errors in the template. We will try and fix them immediately although it's a free resource.
-
-Feel free to let us know about what you want to see in the future downloads. We will definitely give it a thought while creating our next freebie.
-
-
-CREDITS & REFERENCES
-
-https://getbootstrap.com/
-
-Stock Photos
-https://unsplash.com/
-https://www.freepik.com/
-https://www.pexels.com/
-
-Fonts
-Google fonts
-https://fonts.google.com/
-
-Icons
-https://icon-sets.iconify.design/
-
-Bootstrap Framework
-https://getbootstrap.com/
-
-JQuery Plugins
-
-Swiper Slider - https://swiperjs.com/
-Chocolat.js – a Free Lightbox Plugin -http://chocolat.insipi.de/
-Magnific Lightbox - https://github.com/dimsemenov/Magnific-Popup
-
-Thanks for downloading from TemplatesJungle.com !
-
-
+```bash
+├── css/                # Stylesheets (Bootstrap, Vendor, Custom)
+├── images/             # Project screenshots and profile pictures
+├── js/                 # JavaScript files (Plugins, Main script)
+├── index.html          # Main HTML structure
+└── README.md           # Project documentation
