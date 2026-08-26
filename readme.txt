@@ -2,7 +2,7 @@
 
 Welcome to the source code of my personal portfolio website. This site serves as a digital curriculum vitae, showcasing my academic journey, research in Computational Geomechanics, and projects integrating Artificial Intelligence with Civil Engineering.
 
-🔗 **Live Website:** [https://ahmadazeem73.github.io/ahmadazeem.github.io/](https://ahmadazeem73.github.io/ahmadazeem.github.io/)
+🔗 **Live Website:** [https://ahmadazeem73.github.io/] 
 
 ## 👨‍💻 About Me
 
